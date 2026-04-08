@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -393,6 +386,9 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "news-hardtestgen-is-accepted-by-iclr-2026",
           title: 'HardTestGen is accepted by ICLR 2026!',
+          description: "",
+          section: "News",},{id: "news-citeguard-is-accepted-by-acl-2026-main-conference",
+          title: 'CiteGuard is accepted by ACL 2026 (Main Conference)!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

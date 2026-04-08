@@ -81,9 +81,14 @@
           }
         }
 
-        > em {
+        > em,
+        > strong {
           border-bottom: 1px solid;
           font-style: normal;
+        }
+
+        > strong {
+          font-weight: 700;
         }
 
         > span.more-authors {

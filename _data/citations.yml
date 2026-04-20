@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-20'
 papers:
   4ER3KcgAAAAJ:2osOgNQ5qMEC:
-    citations: 3
+    citations: 5
     title: 'CiteGuard: Faithful Citation Attribution for LLMs via Retrieval-Augmented Validation'
     year: '2025'
   4ER3KcgAAAAJ:9yKSN-GCB0IC:

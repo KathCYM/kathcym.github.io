@@ -1,15 +1,15 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-05-13'
 papers:
   4ER3KcgAAAAJ:2osOgNQ5qMEC:
-    citations: 5
+    citations: 7
     title: 'CiteGuard: Faithful Citation Attribution for LLMs via Retrieval-Augmented Validation'
     year: '2025'
   4ER3KcgAAAAJ:9yKSN-GCB0IC:
-    citations: 56
+    citations: 57
     title: 'Hire a linguist!: Learning endangered languages in LLMs with in-context linguistic descriptions'
     year: '2024'
   4ER3KcgAAAAJ:qjMakFHDy7sC:
-    citations: 11
-    title: 'HARDTESTGEN: A High-Quality RL Verifier Generation Pipeline for LLM Algorithimic Coding'
+    citations: 12
+    title: 'HARDTESTGEN: A High-Quality RL Verifier Generation Pipeline for LLM Algorithmic Coding'
     year: '2026'

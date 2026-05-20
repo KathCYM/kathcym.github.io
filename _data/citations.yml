@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-20'
 papers:
   4ER3KcgAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -10,6 +10,6 @@ papers:
     title: 'Hire a linguist!: Learning endangered languages in LLMs with in-context linguistic descriptions'
     year: '2024'
   4ER3KcgAAAAJ:qjMakFHDy7sC:
-    citations: 12
+    citations: 15
     title: 'HARDTESTGEN: A High-Quality RL Verifier Generation Pipeline for LLM Algorithmic Coding'
     year: '2026'

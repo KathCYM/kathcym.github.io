@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-27'
 papers:
   4ER3KcgAAAAJ:2osOgNQ5qMEC:
     citations: 7
     title: 'CiteGuard: Faithful Citation Attribution for LLMs via Retrieval-Augmented Validation'
     year: '2025'
   4ER3KcgAAAAJ:9yKSN-GCB0IC:
-    citations: 57
+    citations: 58
     title: 'Hire a linguist!: Learning endangered languages in LLMs with in-context linguistic descriptions'
     year: '2024'
   4ER3KcgAAAAJ:qjMakFHDy7sC:

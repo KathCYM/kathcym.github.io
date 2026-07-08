@@ -1,15 +1,19 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-07-08'
 papers:
   4ER3KcgAAAAJ:2osOgNQ5qMEC:
     citations: 8
-    title: 'CiteGuard: Faithful Citation Attribution for LLMs via Retrieval-Augmented Validation'
-    year: '2025'
+    title: 'Citeguard: Faithful citation attribution for llms via retrieval-augmented validation'
+    year: '2026'
   4ER3KcgAAAAJ:9yKSN-GCB0IC:
-    citations: 59
+    citations: 66
     title: 'Hire a linguist!: Learning endangered languages in LLMs with in-context linguistic descriptions'
     year: '2024'
+  4ER3KcgAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: Where Does the Answer Come From? Benchmarking View-Level Visual Evidence Identification in Multi-View MLLMs for Autonomous Driving
+    year: '2026'
   4ER3KcgAAAAJ:qjMakFHDy7sC:
-    citations: 16
+    citations: 19
     title: 'HARDTESTGEN: A High-Quality RL Verifier Generation Pipeline for LLM Algorithmic Coding'
     year: '2026'

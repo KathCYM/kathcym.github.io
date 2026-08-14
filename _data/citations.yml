@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-14'
 papers:
   4ER3KcgAAAAJ:2osOgNQ5qMEC:
     citations: 9
@@ -18,6 +18,6 @@ papers:
     title: 'The Illusion of Choice: Assessing Impact of Manipulated LLMs'
     year: '2026'
   4ER3KcgAAAAJ:qjMakFHDy7sC:
-    citations: 20
+    citations: 21
     title: 'HARDTESTGEN: A High-Quality RL Verifier Generation Pipeline for LLM Algorithmic Coding'
     year: '2026'

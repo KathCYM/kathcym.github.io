@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-09-04'
 papers:
   4ER3KcgAAAAJ:2osOgNQ5qMEC:
-    citations: 10
+    citations: 11
     title: 'Citeguard: Faithful citation attribution for llms via retrieval-augmented validation'
     year: '2026'
   4ER3KcgAAAAJ:9yKSN-GCB0IC:
@@ -22,6 +22,6 @@ papers:
     title: 'LitTraceQA: A Benchmark for Multi-Stage Grounding and Verification in Scientific Question Answering'
     year: '2026'
   4ER3KcgAAAAJ:qjMakFHDy7sC:
-    citations: 21
+    citations: 23
     title: 'HARDTESTGEN: A High-Quality RL Verifier Generation Pipeline for LLM Algorithmic Coding'
     year: '2026'

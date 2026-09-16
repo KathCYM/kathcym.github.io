@@ -280,7 +280,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 scholar:
   last_name: [Choi]
   first_name: [Yee Man, Yee Man (Kath), Yee]
-  name_aliases: ["Yee Choi", "Yee Man Choi", "Yee Man (Kath) Choi"]
+  name_aliases: ["Kath Choi", "Yee Choi", "Yee Man Choi", "Yee Man (Kath) Choi"]
   style: apa
   locale: en
 
